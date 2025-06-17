@@ -1,0 +1,55 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environments
+venv/
+.env/
+.env.*
+
+# Python env vars file
+.env
+
+# SQLite database files
+*.db
+chat_history.db
+
+# ChromaDB persistent storage
+chroma_store/
+
+# Uploaded PDFs
+data/pdfs/
+
+# Streamlit cache
+.streamlit/
+
+# Logs
+*.log
+chat_errors.log
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# MacOS
+.DS_Store
+
+# Others
+*.log
+
+
+# config.py (contains API keys)
+config.py

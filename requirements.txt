@@ -1,0 +1,23 @@
+# Core Libraries
+streamlit
+
+# LlamaIndex and dependencies
+llama-index
+llama-index-core
+llama-index-readers-file
+llama-index-llms-anthropic
+llama-index-vector-stores-chroma
+llama-index-embeddings-huggingface
+
+# Vector Store (ChromaDB)
+chromadb
+
+# Embedding Model
+sentence-transformers
+torch
+
+# PDF Parsing
+PyMuPDF
+
+# Utility
+uuid  # Part of Python stdlib, no need to install
